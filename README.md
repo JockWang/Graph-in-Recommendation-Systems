@@ -26,7 +26,7 @@
 
 * **Graph Contextualized Self-Attention Network for Session-based Recommendation**
 
-   Chengfeng Xu, Pengpeng Zhao, Yanchi Liu, Victor S. Sheng, Jiajie Xu, Fuzhen Zhuang, Junhua Fang, Xiaofang Zhou [IJCAI2019](Graph Contextualized Self-Attention Network for Session-based Recommendation) [pdf](https://www.ijcai.org/proceedings/2019/0547.pdf) 
+   Chengfeng Xu, Pengpeng Zhao, Yanchi Liu, Victor S. Sheng, Jiajie Xu, Fuzhen Zhuang, Junhua Fang, Xiaofang Zhou [IJCAI2019](https://www.ijcai.org/proceedings/2019/547) [pdf](https://www.ijcai.org/proceedings/2019/0547.pdf) 
 
 * **Session-based Recommendation with Graph Neural Networks**
 
