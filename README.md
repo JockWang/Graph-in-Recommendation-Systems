@@ -40,10 +40,25 @@
 
    Hongwei Wang, Fuzheng Zhang, Mengdi Zhang, Jure Leskovec, Miao Zhao, Wenjie Li, Zhongyuan Wang [KDD2019](https://dl.acm.org/citation.cfm?id=3292500.3330836) [pdf](https://arxiv.org/pdf/1905.04413.pdf) [code](https://github.com/hwwang55/KGNN-LS)
 
-* Exact-K Recommendation via Maximal Clique Optimization
-* KGAT: Knowledge Graph Attention Network for Recommendation
-* Knowledge Graph Convolutional Networks for Recommender Systems
-* Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems
+* **Exact-K Recommendation via Maximal Clique Optimization**
+
+   Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu [KDD2019](https://dl.acm.org/citation.cfm?doid=3292500.3330832) [pdf](https://arxiv.org/pdf/1905.07089.pdf)
+
+* **KGAT: Knowledge Graph Attention Network for Recommendation**
+
+    Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu, Tat-Seng Chua [KDD2019](https://dl.acm.org/citation.cfm?doid=3292500.3330989) [pdf](https://arxiv.org/pdf/1905.07854.pdf) [code](https://github.com/xiangwang1223/knowledge_graph_attention_network)
+
+* **Knowledge Graph Convolutional Networks for Recommender Systems** 
+
+   Hongwei Wang, Miao Zhao, Xing Xie, Wenjie Li, Minyi Guo [WWW2019](https://dl.acm.org/citation.cfm?id=3313417) [pdf](https://arxiv.org/pdf/1904.12575.pdf)
+
+* **Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems** 
+
+   Qitian Wu, Hengrui Zhang, Xiaofeng Gao, Peng He, Paul Weng, Han Gao, Guihai Chen [WWW2019](https://dl.acm.org/citation.cfm?id=3313442) [pdf](https://arxiv.org/pdf/1903.10433.pdf) [code](https://github.com/echo740/DANSER-WWW-19)
+
+* **Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization** 
+
+   Hongwei Wang, Fuzheng Zhang, Mengdi Zhang, Jure Leskovec, Miao Zhao, Wenjie Li, Zhongyuan Wang [WWW2019]() [pdf](https://arxiv.org/pdf/1905.04413.pdf) 
 
 ## Reference
 
