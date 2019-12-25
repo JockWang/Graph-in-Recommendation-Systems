@@ -2,7 +2,7 @@
 
 [Graph Embedding](#graph-embedding)
 
-[References](##reference)
+[References](#reference)
 
 # GNNs in Recommendation Systems
 
