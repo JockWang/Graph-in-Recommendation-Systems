@@ -1,3 +1,5 @@
+[TOC]
+
 # GNNs in Recommendation Systems
 
 * **Graph Neural Networks for Social Recommendation** 
