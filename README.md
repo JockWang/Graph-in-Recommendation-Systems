@@ -70,7 +70,7 @@
 
 * **TRec: an efficient recommendation system for hunting passengers with deep neural networks**
 
-   Zhenhua Huang, Guangxu Shan, Jiujun Cheng, Jian Sun [Sprinter](https://link.springer.com/article/10.1007/s00521-018-3728-2)
+   Zhenhua Huang, Guangxu Shan, Jiujun Cheng, Jian Sun [Springer](https://link.springer.com/article/10.1007/s00521-018-3728-2)
 
 # Graph Embedding
 
