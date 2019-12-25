@@ -59,6 +59,22 @@
 * **Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization** 
 
    Hongwei Wang, Fuzheng Zhang, Mengdi Zhang, Jure Leskovec, Miao Zhao, Wenjie Li, Zhongyuan Wang [WWW2019]() [pdf](https://arxiv.org/pdf/1905.04413.pdf) 
+   
+* **SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation** 
+
+   Le Wu, Peijie Sun, Richang Hong, Yanjie Fu, Xiting Wang, Meng Wang [arXiv](https://arxiv.org/abs/1811.02815) [pdf](https://arxiv.org/pdf/1811.02815.pdf)
+   
+* **Attention-based Graph Convolutional Network for Recommendation System**
+
+   Chenyuan Feng, Zuozhu Liu, Shaowei Lin, Tony Q.S. Quek [IEEE](https://ieeexplore.ieee.org/abstract/document/8683050) [pdf](http://150.162.46.34:8080/icassp2019/ICASSP2019/pdfs/0007560.pdf)
+
+* **TRec: an efficient recommendation system for hunting passengers with deep neural networks**
+
+   Zhenhua Huang, Guangxu Shan, Jiujun Cheng, Jian Sun [Sprinter](https://link.springer.com/article/10.1007/s00521-018-3728-2)
+
+# Graph Embedding
+
+
 
 ## Reference
 
