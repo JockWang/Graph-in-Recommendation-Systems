@@ -1,4 +1,8 @@
-[TOC]
+[GNNs in Recommendation Systems](#gnns-in-recommendation-systems)
+
+[Graph Embedding](#graph-embedding)
+
+[References](##references)
 
 # GNNs in Recommendation Systems
 
