@@ -6,6 +6,22 @@
 
 # GNNs in Recommendation Systems
 
+* **Adversarial Attack on Community Detection by Hiding Individuals**
+
+  Jia Li, Honglei Zhang, Zhichao Han, Yu Rong, Hong Cheng and Junzhou Huang [pdf](https://arxiv.org/pdf/2001.07933)
+
+* **Heterogeneous Graph Transformer**
+
+   Ziniu Hu, Yuxiao Dong, Kuansan Wang and Yizhou Sun [pdf](https://arxiv.org/pdf/2003.01332)
+
+* **Beyond Clicks: Modeling Multi-Relational Item Graph for Session-Based Target Behavior Prediction**
+
+   Wen Wang, Wei Zhang, Shukai Liu, Bo Zhang, Leyu Lin and Hongyuan Zha [pdf](https://arxiv.org/pdf/2002.07993)
+
+* **Open Knowledge Enrichment for Long-tail Entities**
+
+   Ermei Cao, Difeng Wang, Jiacheng Huang and Wei Hu [pdf](https://arxiv.org/pdf/2002.06397)
+
 * **Graph Neural Networks for Social Recommendation** 
 
   *Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin* [WWW2019](  https://dl.acm.org/citation.cfm?id=3313488  ) [pdf](https://arxiv.org/pdf/1902.07243.pdf) [code]( https://github.com/Wang-Shuo/GraphRec_PyTorch )
@@ -56,7 +72,7 @@
 
 * **Knowledge Graph Convolutional Networks for Recommender Systems** 
 
-   *Hongwei Wang, Miao Zhao, Xing Xie, Wenjie Li, Minyi Guo* [WWW2019](https://dl.acm.org/citation.cfm?id=3313417) [pdf](https://arxiv.org/pdf/1904.12575.pdf)
+   *Hongwei Wang, Miao Zhao, Xing Xie, Wenjie Li, Minyi Guo* [WWW2019](https://dl.acm.org/citation.cfm?id=3313417) [pdf](https://arxiv.org/pdf/1904.12575.pdf) [code](https://github.com/hwwang55/KGCN)
 
 * **Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems** 
 
