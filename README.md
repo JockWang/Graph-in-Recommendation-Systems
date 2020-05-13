@@ -1,26 +1,58 @@
 [GNNs in Recommendation Systems](#gnns-in-recommendation-systems)
 
-[Graph Embedding](#graph-embedding)
+[GNNs in Graph Embedding](#gnns-in-graph-embedding)
 
 [References](#reference)
 
-# GNNs in Recommendation Systems
+# GNNs in Recommendation System**s**
 
-* **Adversarial Attack on Community Detection by Hiding Individuals**
+* **BasConv: Aggregating Heterogeneous Interactions for Basket Recommendation with Graph Convolutional Neural Network**
 
-  Jia Li, Honglei Zhang, Zhichao Han, Yu Rong, Hong Cheng and Junzhou Huang [pdf](https://arxiv.org/pdf/2001.07933)
+  *Zhiwei Liu, Mengting Wan, Stephen Guo, Kannan Achan, Philip S. Yu* [pdf](https://arxiv.org/pdf/2001.09900)
 
-* **Heterogeneous Graph Transformer**
+* **GACOforRec: Session-Based Graph Convolutional Neural Networks Recommendation Model**
 
-   Ziniu Hu, Yuxiao Dong, Kuansan Wang and Yizhou Sun [pdf](https://arxiv.org/pdf/2003.01332)
+   *Mingge Zhang and Zhenyu Yang* [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8807147)
+
+* **Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks**
+
+   *Qiu Ruihong, Li Jingjing, Huang Zi, Yin Hongzhi* [pdf](https://arxiv.org/pdf/1911.11942)
+
+* **Graph Attention Networks for Neural Social Recommendation**
+
+   *Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin* [pdf](https://arxiv.org/pdf/1902.07243.pdf)
+
+* **Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation**
+
+   *Shaohua Fan, Junxiong Zhu, Xiaotian Han, Chuan Shi, Linmei Hu, Biyu Ma and Yongliang Li* [pdf]()
+
+* **Jointing Knowledge Graph and Neural Network for Top-N Recommendation**
+
+   *Chen W., Chang L., Bin C., Gu T., Jia Z.*  [pdf](https://link.springer.com/chapter/10.1007/978-3-030-29908-8_15)
+
+* **Hierarchical Graph Neural Networks for Personalized Recommendations with User-Session Context** 
+
+   *Shen X. et al.* [pdf](https://link.springer.com/chapter/10.1007/978-3-030-34139-8_34)
+
+* **Interaction Graph Neural Network for News Recommendation**
+
+   *Qian Y. et al.*  [pdf](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_38)
+
+* **Personalizing Graph Neural Networks with Attention Mechanism for Session-based Recommendation**
+
+   *Shu Wu, Mengqi Zhang, Xin Jiang, Xu Ke, Liang Wang* [pdf](https://arxiv.org/pdf/1910.08887)
+
+* **Memory Augmented Graph Neural Networks for Sequential Recommendation**
+
+   *Chen Ma, Liheng Ma, Yingxue Zhang, Jianing Sun, Xue Liu, Mark Coates* [pdf](https://arxiv.org/pdf/1912.11730)
+
+* **Solving Cold Start Problem in Recommendation with Attribute Graph Neural Networks**
+
+   *Tieyun Qian, Yile Liang, Qing Li* [pdf](https://arxiv.org/pdf/1912.12398.pdf)
 
 * **Beyond Clicks: Modeling Multi-Relational Item Graph for Session-Based Target Behavior Prediction**
 
-   Wen Wang, Wei Zhang, Shukai Liu, Bo Zhang, Leyu Lin and Hongyuan Zha [pdf](https://arxiv.org/pdf/2002.07993)
-
-* **Open Knowledge Enrichment for Long-tail Entities**
-
-   Ermei Cao, Difeng Wang, Jiacheng Huang and Wei Hu [pdf](https://arxiv.org/pdf/2002.06397)
+  *Wen Wang, Wei Zhang, Shukai Liu, Bo Zhang, Leyu Lin and Hongyuan Zha* [pdf](https://arxiv.org/pdf/2002.07993)
 
 * **Graph Neural Networks for Social Recommendation** 
 
@@ -94,8 +126,27 @@
 
    *Zhenhua Huang, Guangxu Shan, Jiujun Cheng, Jian Sun* [Springer](https://link.springer.com/article/10.1007/s00521-018-3728-2)
 
-# Graph Embedding
+# GNNs in Graph Embedding
 
+* **Interpretable Nearest Neighbor Queries for Tree-Structured Data in Vector Databases of Graph-Neural Network Embeddings**
+
+  *Lukas Pfahler, Jan Richter* [pdf](http://ceur-ws.org/Vol-2578/ETMLP1.pdf)
+
+* **MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding**
+
+  *Xinyu Fu, Jiani Zhang, Ziqiao Meng, Irwin King* [pdf](https://arxiv.org/pdf/2002.01680)
+
+* **A new approach for traffic matrix estimation in high load computer networks based on graph embedding and convolutional neural network**
+
+  *Mohsen Emami, Reza Akbari, Reza Javidan, Ali Zamani* [pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ett.3604)
+
+* **A-GNN: Anchors-Aware Graph Neural Networks for Node Embedding**
+
+  *Liu C. et al.*  [pdf](https://link.springer.com/chapter/10.1007/978-3-030-38819-5_9)
+
+* **Heterogeneous Graph Transformer**
+
+  *Ziniu Hu, Yuxiao Dong, Kuansan Wang and Yizhou Sun* [pdf](https://arxiv.org/pdf/2003.01332)
 
 
 ## Reference
